@@ -3,7 +3,7 @@ Proyecto Final Ignacio Giordano curso Python en coderhouse
 se desarrrollo una aplicación web estilo blog programada en Python en Django. Esta web tendrá admin, perfiles, registro, páginas y formularios.
 
 Este proyecto no utiliza Python puro sino Python con Django para desarrollo web. Y la magia de HTML5 Y CSS3 combinado de las plantillas de Bootstrap nos facilitan
-el diseño FontEnd de este proyecto.
+el diseño FrontEnd de este proyecto.
 
 
 # Comenzando🚀
